@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0197-rising-temperature) |
 | [0619-biggest-single-number](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0619-biggest-single-number) |
+| [0627-swap-salary](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1390-average-selling-price) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
