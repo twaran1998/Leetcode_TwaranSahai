@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0197-rising-temperature) |
+| [0596-classes-more-than-5-students](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0619-biggest-single-number) |
 | [0627-swap-salary](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1153-product-sales-analysis-i) |
