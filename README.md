@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1390-average-selling-price) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1801-average-time-of-process-per-machine) |
