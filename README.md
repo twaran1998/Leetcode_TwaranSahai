@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1390-average-selling-price) |
 | [1541-top-travellers](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1541-top-travellers) |
 | [1801-average-time-of-process-per-machine](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1811-fix-names-in-a-table) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/2127-employees-whose-manager-left-the-company) |
