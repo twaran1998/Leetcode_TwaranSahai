@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1811-fix-names-in-a-table) |
