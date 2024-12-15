@@ -1,11 +1,6 @@
-SELECT 
-    CASE 
-        WHEN MAX(num) IS NOT NULL THEN MAX(num)
-        ELSE NULL
-    END AS num
-FROM (
-    SELECT num
-    FROM MyNumbers
-    GROUP BY num
-    HAVING COUNT(num) = 1
-) AS single_numbers;
+# Write your MySQL query statement below
+select
+case when count(num)=1 then num else null end as num
+from MyNumbers
+group by num
+order by num desc limit 1
