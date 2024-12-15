@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1317-monthly-transactions-i) |
