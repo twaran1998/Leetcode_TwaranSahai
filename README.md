@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1292-immediate-food-delivery-ii) |
+| [1301-reformat-department-table](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/twaran1998/Leetcode_TwaranSahai/tree/master/1338-queries-quality-and-percentage) |
