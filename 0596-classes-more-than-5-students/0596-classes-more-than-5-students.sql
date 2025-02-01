@@ -1,2 +1,9 @@
 # Write your MySQL query statement below
-Select class FROM Courses GROUP BY class HAVING COUNT(class)>=5;
+
+WITH CTE AS(
+select 
+class,student,
+ROW_NUMBER() OVER(partition by class) as rnk 
+FROM Courses
+)
+select class from CTE where rnk>=5 GROUP BY class;
